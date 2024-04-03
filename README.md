@@ -960,7 +960,8 @@ $ ./exread.sh
 
 ## OUTPUT
 
-![Screenshot from 2024-03-24 12-34-58](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/5435ed19-b63f-4829-92fb-936eda53df30)
+![WhatsApp Image 2024-04-03 at 20 11 52_37b072f5](https://github.com/MeethaPrabhu/OS-Linux-commands-Shell-script/assets/119401038/e8a62271-352c-479e-b2f7-e482546f0afe)
+
 
  cat exread1.sh
 ```bash
@@ -975,7 +976,8 @@ $ ./exread1.sh
 
 ## OUTPUT
 
-![Screenshot from 2024-03-24 12-39-16](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/9ee8108b-b64c-4b92-a19f-c991de0007ef)
+![WhatsApp Image 2024-04-03 at 20 11 52_37b072f5](https://github.com/MeethaPrabhu/OS-Linux-commands-Shell-script/assets/119401038/23b6558c-ad32-459c-9ee0-e921213e1400)
+
 
  
 cat funcex.sh
